@@ -15,7 +15,7 @@ livecodeAr.pdf (sin convertir a curvas) -
 livecodeAr-curvas.pdf (en curvas)
 
 # Prueba
-t-shirt.jpg
+t-shirts.jpg
 
 
 
